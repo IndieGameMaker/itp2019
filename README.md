@@ -10,3 +10,4 @@
 
 ### 인천 ITP 토일 VR/AR 과정 2기 과정
 
+[VR/AR 리소스 압축파일](https://1drv.ms/f/s!Asker0nVo1TSyM5vX3P6nOovzARO0Q)
