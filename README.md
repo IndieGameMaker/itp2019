@@ -15,3 +15,5 @@
 [VRFantacy 프로젝트](https://github.com/IndieGameMaker/VRFantacy)
 
 [GearVR 프로젝트](https://github.com/IndieGameMaker/GearVR_ITP2019)
+
+[12월15일 프로젝트](https://1drv.ms/u/s!Asker0nVo1TS1o0eubMr5tSByBM6IA?e=Tbml8U)
