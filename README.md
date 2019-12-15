@@ -13,3 +13,5 @@
 [VR/AR 리소스 압축파일](https://1drv.ms/f/s!Asker0nVo1TSyM5vX3P6nOovzARO0Q)
 
 [VRFantacy 프로젝트](https://github.com/IndieGameMaker/VRFantacy)
+
+[GearVR 프로젝트](https://github.com/IndieGameMaker/GearVR_ITP2019)
