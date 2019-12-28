@@ -21,3 +21,8 @@
 [Object Scanning Data](https://drive.google.com/open?id=11fFyE1I7trr14r0d-X_Vp6izReA74EkP)
 
 [ARCore 드론 프로젝트](https://github.com/IndieGameMaker/ARCoreDemoITP)
+
+
+### 인천 ITP 토일 VR/AR 과정 3기
+
+[SpaceShooter 프로젝트](https://github.com/IndieGameMaker/SpaceShooter03)
