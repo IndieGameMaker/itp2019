@@ -36,3 +36,5 @@
 [최종 프로젝트](https://1drv.ms/u/s!Asker0nVo1TS1o0h0Po31OOvXLbD7g?e=1tHls3)
 
 [Oculus Quest 프로젝트](https://github.com/IndieGameMaker/OculusQuestITP)
+
+[Link Oculus Appp](https://support.oculus.com/525406631321134/#setup)
